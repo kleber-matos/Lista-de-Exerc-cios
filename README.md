@@ -1,5 +1,5 @@
 # 🎭 Lista de Exercícios de Python - Edição Especial de Carnaval 🎉🐍
-Prepare a serpentina e os confetes porque essa lista de exercícios vai transformar seu aprendizado em uma folia de código! 🥳🎊 Vamos usar a criatividade e praticar Python com desafios inspirados no Carnaval! 🎭🎶
+**Prepare a serpentina e os confetes porque essa lista de exercícios vai transformar seu aprendizado em uma folia de código! 🥳🎊 Vamos usar a criatividade e praticar Python com desafios inspirados no Carnaval! 🎭🎶**
 
 ## 🎺 1. O Trio Elétrico das Listas
 > Crie um código que recebe uma lista de blocos de Carnaval e percorre essa lista sem usar o loop for para exibir os nomes dos blocos.
