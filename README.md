@@ -54,6 +54,6 @@ Prepare a serpentina e os confetes porque essa lista de exercícios vai transfor
 
 
 > [!NOTE]
-> Este repositório contém uma série de exercícios divertidos e desafiadores em Python, com temática de Carnaval! 🎭🐍 Não se preocupe se alguma tarefa parecer difícil, o importante é se desafiar e aprender no processo! Lembre-se de consultar a documentação oficial e explorar materiais de apoio na internet. 📚🚀 Cada passo dado aqui é um grande avanço no seu aprendizado! Vamos juntos nessa jornada de conhecimento! 🎊💻
+> Este repositório contém uma série de exercícios divertidos e desafiadores em Python, com temática de Carnaval! Não se preocupe se alguma tarefa parecer difícil, o importante é se desafiar e aprender no processo! Lembre-se de consultar a documentação oficial e explorar materiais de apoio na internet. Cada passo dado aqui é um grande avanço no seu aprendizado! Vamos juntos nessa jornada de conhecimento! 🎭🐍
 
 
